@@ -1,0 +1,11 @@
+@media all and (max-width: 320px){
+    .banner-content h1 {
+        font-family: "Brawler";
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+        font-size: 60px;
+        /*animation: animate1 infinite 3s;*/
+        white-space: nowrap;
+        margin-left: 0;
+        padding-top: 10%;
+    }
+}
